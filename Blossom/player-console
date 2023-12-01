@@ -1,0 +1,18 @@
+.main-nowplayingwidget-nowplaying {
+    padding-top: 15px;
+}
+.main-nowplayingbar-nowplayingbar {
+    height: 95px;
+}
+.playback-bar {
+    padding-bottom: 7px;
+}
+.player-controls__buttons {
+    padding-top: 15px;
+}
+.main-nowplayingbar-extracontrols {
+    padding-top: 15px;
+}
+.main-nowplayingbar-nowplayingbar {
+    padding-inline-start: 1px;
+}
