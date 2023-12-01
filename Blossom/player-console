@@ -5,7 +5,7 @@
     height: 95px;
 }
 .playback-bar {
-    padding-bottom: 7px;
+    padding-bottom: 9px;
 }
 .player-controls__buttons {
     padding-top: 15px;
