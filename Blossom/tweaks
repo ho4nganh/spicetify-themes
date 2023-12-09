@@ -1,0 +1,30 @@
+.spotify__container--is-desktop .root__top-container {
+    padding-top: calc(6px * 2);
+    --panel-gap: 0;
+}
+.typeelement-canon-type-draggable {
+    padding-left: 13.5px;
+}
+.main-gridcontainer-gridcontainer {
+    padding-top: 4px;
+}
+.main-navbar-mainnav li:has(> .active) {
+    border-radius: 5px;
+    transform: translate(0px, 0);
+    transition: all 1s;
+}
+.typeelement-finalebold-type {
+    font-size: 14px;
+}
+.svg-img-icon-xlarge {
+    fill: white;
+}
+.typeelement-ballad-type {
+    color: white;
+}
+.main-editimagebutton-overlay {
+    backdrop-filter: blur(6.5px);
+}
+.playlist-playlist-playlistdescription.iiupn8qge4t3aveanro0 {
+    -webkit-line-clamp: 3;
+}
