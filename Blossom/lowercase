@@ -1,0 +1,43 @@
+.main-tracklist-rowtitle {
+    text-transform: lowercase;
+}
+.standalone-ellipsis-one-line {
+    text-transform: lowercase;
+}
+.typeelement-bass-textbase-type {
+    text-transform: lowercase;
+}
+.typeelement-mesto-type {
+    text-transform: lowercase;
+}
+.typeelement-balladbold-type {
+    text-transform: lowercase;
+}
+.button-medium-medium-buttontertiary-iconleading-condensed-usebrowserdefaultfocusstyle {
+    text-transform: lowercase;
+}
+.chip__chipcomponent-sc-ry3uox-0:not([href]) > .chipinnercomponent.chipinnercomponent {
+    text-transform: lowercase;
+}
+.typeelement-alto-textbase-type {
+    text-transform: lowercase;
+}
+.main-shelf-title {
+    text-transform: lowercase;
+}
+a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, body, canvas, caption, center, cite, code, dd, del, details, dfn, div, dl, dt, em, embed, fieldset, figcaption, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, html, i, iframe, img, input, ins, kbd, label, legend, li, mark, menu, nav, object, ol, output, p, pre, q, ruby, s, samp, section, small, span, strike, strong, sub, summary, sup, table, tbody, td, tfoot, th, thead, time, tr, tt, u, ul, var, video {
+    text-transform: lowercase;
+}
+.button-small-buttonsecondary-usebrowserdefaultfocusstyle {
+    text-transform: lowercase;
+}
+.button-medium-medium-buttontertiary-iconleading-condensed-isusingkeyboard-usebrowserdefaultfocusstyle {
+    text-transform: lowercase;
+}
+.button-textsubdued-small-small-buttontertiary-condensed-usebrowserdefaultfocusstyle {
+    text-transform: lowercase;
+}
+@media screen and (min-width: 768px)
+.button-module__button___hf2qg_marketplace {
+    text-transform: lowercase;
+}
