@@ -41,3 +41,6 @@ a, abbr, acronym, address, applet, article, aside, audio, b, big, blockquote, bo
 .button-module__button___hf2qg_marketplace {
     text-transform: lowercase;
 }
+.button-textsubdued-small-small-buttontertiary-condensed-usebrowserdefaultfocusstyle {
+    text-transform: lowercase;
+}
